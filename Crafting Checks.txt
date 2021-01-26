@@ -1,0 +1,32 @@
+SMITHING:
+|:-----------------------------------------:----------------------------------------:|
+|                 Successes                |                 Failures                |
+|:----------------------------------------:|:---------------------------------------:|
+|                     6                    |                    1                    |
+|:--------------------------------:----:---:---:------------------------------------:|
+|              Skill              | DC | Prof. |               Description           |
+|:-------------------------------:|:--:|:-----:|:-----------------------------------:|
+| Strength<br>(Smith's Tools)     | 12 |   N   | Cutting the metal to good size      |
+| Constitution Save               | 10 |   N   | Heating the metal properly          |
+| Wisdom<br>(Smith's Tools)       | 15 |   N   | Checking for slags and impurities   |
+| Strength<br>(Smith's Tools)     | 15 |   N   | Grinding the metal                  |
+| Constitution<br>(Smith's Tools) | 14 |   N   | Hardening and quenching the metal   |
+| Wisdom<br>(Smith's Tools)       | 15 |   N   | Tempering the metal                 |
+| Smith's Tools*                  | 15 |   N   | Polishing the component	     |
+|:--------------------------------:----:---:---:------------------------------------:|
+
+TANNING:
+|:-----------------------------------------:----------------------------------------:|
+|                 Successes                |                 Failures                |
+|:----------------------------------------:|:---------------------------------------:|
+|                     5                    |                    1                    |
+|:--------------------------------:----:---:---:------------------------------------:|
+|              Skill              | DC | Prof. |               Description           |
+|:-------------------------------:|:--:|:-----:|:-----------------------------------:|
+| Constitution<br>(Tanner's Kit)  | 12 |   N   | Soaking and preparing the pelt      |
+| Wisdom<br>(Tanner's Kit)	  | 15 |   N   | Checking for puetrefaction	     |
+| Strength<br>(Tanner's Kit)  	  | 10 |   N   | Liming and scudding the pelt	     |
+| Constitution<br>(Tanner's Kit)  | 10 |   N   | Pickling the pelt	     	     |
+| Constitution<br>(Tanner's Kit)  | 12 |   N   | Tanning the leather (either vegetable (armour) or tawing (weapons))
+| Tanner's Kit*			  | 15 |   N   | Finishing the component	     |
+|:--------------------------------:----:---:---:------------------------------------:|
