@@ -1,0 +1,9 @@
+Runes have an expression radius, which is how far their magic conducts into a material. This radius is measured in inches, and is equal to the level of the rune.
+
+The MCI of a material alters the area of a rune's expression if it is placed on it, increasing or decreasing the amount that a rune's expression can extend out from
+the material. Expression radius changes by a number of inches equal to MCI.
+
+When a rune's magic enters a new material, you alter the radius by the difference between the old material and the new material to see how much further the magic
+can extend. Magic works like movement speed in a battle, in that consuming radius means that you can reduce the amount you can extend further.
+
+Rune ribbons can be used to manipulate the area, limiting its width to multiply its length.

@@ -1,0 +1,8 @@
+ignan - evocation
+aquan - abjuration
+terran - transmutation
+auran - illusion
+luthian - divination
+erebian - conjuration
+nyxian - enchantment
+animus - necromancy
