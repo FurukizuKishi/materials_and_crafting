@@ -3,9 +3,9 @@ gemstone diameter starts at 1/8" for a tiny gemstone, then doubles for each addi
 tiny	- 0.0001 lbs.	- 1/8"	- cantrips	- 1/10th base cost
 small	- 0.001 lbs.	- 1/4"	- 1st & 2nd	- base cost
 medium	- 0.01 lbs.	- 1/2"	- 3rd & 4th	- 10 * base cost
-large	- 0.1 lbs.	- 1"	- 5th & 6th	- 100 * base cost
-huge	- 1 lbs.	- 2"	- 7th & 8th	- 1,000 * base cost
-giant	- 10 lbs.	- 4"	- 9th		- 10,000 * base cost
+large	- 0.2 lbs.	- 3/2"	- 5th & 6th	- 100 * base cost
+huge	- 2 lbs.	- 3"	- 7th & 8th	- 1,000 * base cost
+giant	- 10 lbs.	- 6"	- 9th		- 10,000 * base cost
 
 agate = 530 gp
 garnet = 550 gp
