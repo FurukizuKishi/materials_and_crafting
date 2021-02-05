@@ -1,11 +1,11 @@
 Flametongue:
  - steel blade
- - elemental blade, fire (3rd-level spell)
- - medium fire opal (fire +4)
+ - elemental blade (fire) [3rd-level spell]
+ - medium fire opal [fire +4]
 
 Holy Avenger:
- - celesteel blade (elysian +3)
- - divine favour (1st-level spell)
- - small opals (radiant +2)
- - holy aura (8th-level spell)
- - huge hawk's eye (aquan +1, healing +2)
+ - celesteel blade [elysian +3]
+ - divine favour [1st-level spell]
+ - small opals [radiant +2]
+ - holy aura [8th-level spell]
+ - huge hawk's eye [aquan +1, healing +2]
