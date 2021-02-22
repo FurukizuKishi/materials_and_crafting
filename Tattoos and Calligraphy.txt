@@ -1,0 +1,11 @@
+ink, like potions (alchemy)
+plant ink
+gemstone ink (can be enchanted)
+
+can be used for scrolls (spell scrolls if magical) and (magical) tattoos
+scrolls are consumable, tattoos are permanent
+if one has the ink, a spell scroll can be crafted in a long rest, and a tattoo can be applied in a week
+tattoos are permanent body modifications and cannot be removed
+
+magical tattoos transform the bearer into a magic item
+magical tattoos prevent the owner from attuning to magic items

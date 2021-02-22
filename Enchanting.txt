@@ -7,3 +7,42 @@ When a rune's magic enters a new material, you alter the radius by the differenc
 can extend. Magic works like movement speed in a battle, in that consuming radius means that you can reduce the amount you can extend further.
 
 Rune ribbons can be used to manipulate the area, limiting its width to multiply its length.
+
+When creating an enchantment, you must enchant the rune with a spell of a level that it can fit. Upcast spells give an additional inch of expression radius for each
+level they are upcast.
+
+Magical abilities (eg: class abilities, racial abilities, etc. that the DM deems magical) can also form the basis for enchantments. They have levels as well, which
+work in a similar way to spell levels.
+
+ - If the ability uses a resource (eg: sorcery points, ki, etc.), the level of the ability is determined by halving the resource cost, and rounding up. For example, a
+   sorcerer's metamagic would be a 1st-level ability. If the ability can be upscaled by spending additional resource, one point equals one additional spell level.
+
+ - Otherwise, the ability is levelled based on the class level it was obtained. This is calculated based on the levels that a full caster would gain their spell slots. 
+   If it can be recharged, a short-rest recharge increases it by one spell level, and a long-rest recharge increases it by two. For example, a hexblade's baleful curse
+   would count as a 2nd-level ability, as it is gained at 1st level, and is recharged on a short or long rest.
+
+Each enchantment's initial expression radius (at the rune, including its etched material and inlays) is used in a point buy system, the categories of which are
+determined on an individual enchantment basis. If two separate enchantments overlap in expression area, they may be combined to form a new point buy, and a new
+more complex enchantment. If a rune's expression area overlaps with multiple other runes', its enchantment may be split up into any or all of them, altering all of the
+enchantments it offered into new ones.
+
+Categories for point buy:
+ - Recharge
+    - Long rest/Dawn/Dusk for free
+    - Short rest
+    - 1/minute
+    - 1/turn
+    - 1 point for one step dice of recharge for charges
+ - Charges
+    - 1 point per charge
+    - 10 charges for at-will
+ - Duration
+    - 5 points to get rid of concentration
+ - Range
+    - 1 point per 10 feet
+ - Area
+    - 1 point per 5 feet (for a area enchantment)
+    - 3 points per 5 feet (for a melee enchantment)
+ - Half step dice for damage or healing
+ - Can alter damage type for 1 point (affinity can become useful or obselete)
+ - Can alter a tag for a number of points equal to twice its tier (minimum 1)
