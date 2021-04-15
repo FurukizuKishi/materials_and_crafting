@@ -1,0 +1,14 @@
+smithing			Done	alloying, pattern welding
+engraving			Done	inlaying
+tanning				Done	peutrefaction
+woodcarving	20 mins		Done	chip woodcarving - increases mci by creating facets, allowing magic to bounce internally
+alchemy		20 mins		Done	potion staining - gives the material effects based on the potion applied
+toxicology	20 mins		Done	method of entry
+tattooing	40 mins		Done	creating concealable tattoos - allows a tattoo to be hidden from non-magical detection
+calligraphy	40 mins		Done	spell scrolls - allows normal parchment to be used as a spell scroll base
+weaving		40 mins			weaving two silks together - like pattern welding but for silks
+lapidary	40 mins			creating enchantable gemstones - allows a gemstone to be used to enchanting
+glassforming	40 mins			creating emission glass - allows a glass to be used in a staff core
+tinkering	1 hour 20 mins		making machines and contraptions - guns, traps, etc.
+----------------------------------------------------------------------------------------------------------------------------------
+total		6 hours / 6 days
