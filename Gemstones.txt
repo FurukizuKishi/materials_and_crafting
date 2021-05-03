@@ -1,36 +1,8 @@
 gemstone diameter starts at 1/8" for a tiny gemstone, then doubles for each additional size.
 
-tiny	- 0.0001 lbs.	- 1/8"	- cantrips	- 1/10th base cost
-small	- 0.001 lbs.	- 1/4"	- 1st & 2nd	- base cost
-medium	- 0.01 lbs.	- 1/2"	- 3rd & 4th	- 10 * base cost
-large	- 0.2 lbs.	- 3/2"	- 5th & 6th	- 100 * base cost
-huge	- 2 lbs.	- 3"	- 7th & 8th	- 1,000 * base cost
-giant	- 10 lbs.	- 6"	- 9th		- 10,000 * base cost
-
-agate = 530 gp
-garnet = 550 gp
-ruby = 1300 gp
-sapphire = 950 gp
-emerald = 1100 gp
-topaz = 950 gp
-amethyst = 1300 gp
-opal = 1300 gp
-onyx = 1150 gp
-diamond = 2300 gp
-amber = 
-lapis lazuli = 1850 gp
-malachite = 1300 gp
-moonstone = 1300 gp
-phoenix's eye = 3150 gp
-tortoise's eye = 3150 gp
-serpent's eye = 3150 gp
-eel's eye = 3150 gp
-fire opal = 1300 gp
-water opal = 1300 gp
-jade = 2150 gp
-pearl = 1300 gp
-cassiterite = 4750 gp
-watermelon tourmaline = 4600 gp
-moissanite = 4250 gp
-aquamarine = 2,800 gp
-solaris = 6250 gp
+tiny	- 0.0001 lbs.	- 1/8"	- cantrips	- 1/10th base cost (10 ~ 50 ~ 100)
+small	- 0.001 lbs.	- 1/4"	- 1st & 2nd	- base cost (100 ~ 500 ~ 1,000)
+medium	- 0.01 lbs.	- 1/2"	- 3rd & 4th	- 10 * base cost (1,000 ~ 5,000 ~ 10,000)
+large	- 0.2 lbs.	- 3/2"	- 5th & 6th	- 100 * base cost (10,000 ~ 50,000 ~ 100,000)
+huge	- 2 lbs.	- 3"	- 7th & 8th	- 1,000 * base cost (100,000 ~ 500,000 ~ 1,000,000)
+giant	- 10 lbs.	- 6"	- 9th		- 10,000 * base cost (1,000,000 ~ 5,000,000 ~ 10,000,000)
