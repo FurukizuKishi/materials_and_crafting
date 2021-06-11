@@ -1,0 +1,9 @@
+1st-level spell = 2.5" = 2 MCI
+2nd-level spell = 5" = 3 MCI
+3rd-level spell = 7.5" = 4 MCI
+4th-level spell = 10" = 5 MCI
+5th-level spell = 12.5" = 7 MCI
+6th-level spell = 15" = 8 MCI
+7th-level spell = 17.5" = 9 MCI
+8th-level spell = 20" = 10 MCI
+9th-level spell = 22.5" = 12 MCI
