@@ -1,0 +1,58 @@
+athame - 2 components
+chain knife - 2 (5) components
+chain sickle - 2 (4) components
+club - 2 components
+dagger - 2 (4) components
+handaxe - 2 components
+handstaff - 1 component
+kama - 2 components
+light hammer - 2 components
+shortsword - 2 (4) components
+sickle - 2 components
+warfan - 2 components
+
+battleaxe - 2 (3) components
+combat scythe - 2 components
+flail - 3/4 components
+javelin - 2 components
+jousting lance - 2 components
+katana - 2 components
+longsword - 2 (4) components
+mace - 2 components
+morningstar - 2 components
+quarterstaff - 1 component
+rapier - 2 (4) components
+scimitar - 2 (4) components
+spear - 2 components
+trident - 2 components
+war pick - 2 components
+warhammer - 2 components
+whip - 2 components
+
+glaive - 2 components
+greataxe - 2 (3) components
+greatclub - 2 components
+greatscythe - 2 components
+greatsword - 2 components
+halberd - 3 components
+maul - 2 components
+pike - 2 components
+
+arcscythe - 2 components
+ball and chain - 3 components
+claymore - 2 (4) components
+
+400 - 
+
+gambeson - 3 components
+padded armour - 3 components
+studded leather - 5 components
+
+breastplate - 3 components
+chain shirt - 2 components
+half plate - 4 (5) components
+hide armour - 3 components
+spiked armour - 4 components
+
+chain mail - 2 components
+plate armour - 8 (10) components
