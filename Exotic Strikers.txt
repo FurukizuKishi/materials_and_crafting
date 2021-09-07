@@ -1,15 +1,24 @@
-armourslayer blade	1 PER 0.5 lbs + 1	cleaving, precision 1, keen 2
-cleaver blade		1 PER 0.5 lbs		cleaving 1
-executioner's blade	1 PER 0.5 lbs + 1	cleaving 2
-branched blade		1 PER 0.5 lbs - 1	thrusting 1, slashing, multi-pronged, superior arcane redirection
-flamberge blade		1 PER 0.5 lbs		slashing 1, superior parry
-khopesh blade		1 PER 0.5 lbs		slashing 2, superior disarm
-kukri blade		1 PER 0.5 lbs		slashing 3
-scythe blade		1 PER 0.5 lbs		slashing 2, forceful 1 IF slashing, keen 2
-serrated blade		1 PER 0.5 lbs		slashing 1, thrusting, bleeding 1
-swordbreaker		1 PER 0.5 lbs		slashing, superior disarm, superior sunder armament
+armourslayer blade	1 PER 0.5 lbs + 1	+8	cleaving 1, precision 1, keen 2
+cleaver blade		1 PER 0.5 lbs		+4	cleaving 1
+executioner's blade	1 PER 0.5 lbs + 1	+6	cleaving 2
+branched blade		1 PER 0.5 lbs - 1	+10	thrusting 2, slashing, multi-pronged, superior arcane redirection
+flamberge blade		1 PER 0.5 lbs		+4	slashing 1, thrusting, superior parry
+khopesh blade		1 PER 0.5 lbs		+5	slashing 2, superior disarm
+kukri blade		1 PER 0.5 lbs		+7	slashing 3
+scythe blade		1 PER 0.5 lbs		+5	slashing 2, forceful 1 IF slashing, keen 2
+serrated blade		1 PER 0.5 lbs		+4	slashing 1, thrusting, bleeding 1
+swordbreaker		1 PER 0.5 lbs		+5	slashing, superior sunder armament
 
-igorot head		1 PER 0.5 lbs + 1	cleaving 2
-tomahawk head		1 PER 0.5 lbs		cleaving, thrown IF light
-crescent head		1 PER 0.5 lbs + 1	cleaving 1
-double crescent head	1 PER 0.5 lbs + 1	cleaving 1, forceful 1 IF slashing
+igorot head		1 PER 0.5 lbs + 1	+6	cleaving 2
+tomahawk head		1 PER 0.5 lbs		+2	cleaving, thrown IF light
+crescent head		1 PER 0.5 lbs + 1	+4	cleaving 1
+double crescent head	1 PER 0.5 lbs + 1	+5	cleaving 1, forceful 1 IF slashing
+
+longtip			1 PER 0.5 lbs		+3	thrusting 2
+curved tip		1 PER 0.5 lbs		+2	slashing, thrusting 1
+crescent tip		1 PER 0.5 lbs		+3	slashing 2
+
+
+
+
+
