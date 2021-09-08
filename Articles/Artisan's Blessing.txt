@@ -1,0 +1,13 @@
+Artisan's Blessing
+3rd-level transmutation
+
+Casting Time: 1 hour
+Range: Touch (the target must be about to engage in crafting an item)
+Components: V, S, M (a favoured piece, created by the target)
+Duration: Concentration, up to 24 hours
+
+An artisan you touch is blessed with supernatural skill in their craft. Until this spell ends, whenever the target makes an Ability check
+as a part of a crafting challenge, they can roll a d4 and add the number rolled to the Ability check.
+
+At Higher Levels: When you cast this spell using a spell slot of 5th or 6th level, the target may roll a d6 instead of a d4. When you use a
+spell slot of 7th or 8th level, they may roll a d8 instead. When you use a spell slot of 9th level, they may roll a d10 instead.
